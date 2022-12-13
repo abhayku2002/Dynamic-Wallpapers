@@ -1,1 +1,1 @@
-# Dynamic Cover
+# Dynamic Wallpaper
