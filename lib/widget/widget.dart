@@ -60,7 +60,7 @@ Widget brandName() {
         style: TextStyle(color: Colors.black87, fontFamily: 'Overpass'),
       ),
       Text(
-        "Cover",
+        "Wallpapers",
         style: TextStyle(color: Colors.blue, fontFamily: 'Overpass'),
       )
     ],
