@@ -127,7 +127,7 @@ class _HomeState extends State<Home> {
                   ),
                   GestureDetector(
                     onTap: () {
-                      _launchURL("https://www.linkedin.com/in/abhayku2002");
+                      _launchURL("https://www.linkedin.com/in/abhayku2002");        //LinkedIn profile 
                     },
                     child: Container(
                         child: Text(
